@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="654f2a6b-10e4-469a-8bf1-b168e798b9b8" name="Changes" comment="Search 2 (-1 case)">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gad/binarysearch/BinSea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gad/binarysearch/BinSea.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PVgFKrRgLBfbwDPMdH1RWoEcYB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/PROJEKTE/University/EIST-a",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654f2a6b-10e4-469a-8bf1-b168e798b9b8" name="Changes" comment="" />
+      <created>1683547558255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683547558255</updated>
+      <workItem from="1683547559972" duration="2071000" />
+      <workItem from="1683707479679" duration="1586000" />
+      <workItem from="1683709623186" duration="723000" />
+      <workItem from="1683718357297" duration="33000" />
+      <workItem from="1683790622246" duration="6546000" />
+      <workItem from="1683829460759" duration="687000" />
+      <workItem from="1684310532740" duration="96000" />
+      <workItem from="1684321585577" duration="129000" />
+    </task>
+    <task id="LOCAL-00001" summary="Search">
+      <created>1683708297204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683708297204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Search">
+      <created>1683708830365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683708830365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Search">
+      <created>1683708938329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683708938329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Search Iterativ">
+      <created>1683792740637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683792740638</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Search iterativ mit richtigem return">
+      <created>1683794188563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683794188563</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search iterativ mit richtigem return und bottom">
+      <created>1683794427406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683794427406</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Search 2 (-1 case)">
+      <created>1683796655499</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683796655499</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Search" />
+    <MESSAGE value="Search Iterativ" />
+    <MESSAGE value="Search iterativ mit richtigem return" />
+    <MESSAGE value="Search iterativ mit richtigem return und bottom" />
+    <MESSAGE value="Search 2 (-1 case)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search 2 (-1 case)" />
+  </component>
+</project>
